@@ -4,12 +4,12 @@
   
 </h1><br>Junior Computer Science undergraduate passionate about building impactful tech and solving real-world problems through code. Building systems, breaking assumptions, and occasionally fixing bugs I created myself.  
 Usually found somewhere between AI/ML research, system architecture, and caffeine dependency.  
-Trying to turn curiosity into scalable technology. Campus Ambassador at **Google Gemini Student Program** and **Innovation Mission Punjab**
+Trying to turn curiosity into scalable technology.
 
 
 ## Co-Curricular & Leadership:
 **Founder & President** of **[CosmoGen Students Society](https://www.instagram.com/cosmogen.gndu/)** — the only STEM-based student society at [Guru Nanak Dev University](https://digital.gndu.ac.in/), Amritsar. 
-Organized and led **2 Hackathons**, including a **National-Level Hackathon** - [CosmoHacks'25](https://www.cosmohacks.org/) with **300+ participating teams** from across India. Conducted multiple technical events and collaborative sessions with **industry experts** and leading **MNCs**. Led large-scale student communities, event operations, sponsorship coordination, and technical management. Passionate about building innovation-driven ecosystems that connect students with technology and industry.
+Organized and led **2 Hackathons**, including a **National-Level Hackathon** - [CosmoHacks'25](https://www.cosmohacks.org/) with **300+ participating teams** from across India. Conducted multiple technical events and collaborative sessions with **industry experts** and leading **MNCs**. Campus Ambassador at **Google Gemini Student Program** and **Innovation Mission Punjab**. Led large-scale student communities, event operations, sponsorship coordination, and technical management. Passionate about building innovation-driven ecosystems that connect students with technology and industry.
 
 
 ## Tech Stack:
