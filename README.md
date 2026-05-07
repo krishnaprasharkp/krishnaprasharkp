@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&repeat=true&lines=Hi+there%2C+I'm+Krishna+Prashar+👋;Building.+Learning.+Leading.;Research+Fellow+in+the+field+of+AI%2FML;Software+Engineering+Enthusiast;Dedicated+to+Continuous+Learning" />
 </h1>
   
-</h1><br>Junior Computer Science undergraduate passionate about building impactful tech and solving real-world problems through code.Building systems, breaking assumptions, and occasionally fixing bugs I created myself.  
+</h1><br>Junior Computer Science undergraduate passionate about building impactful tech and solving real-world problems through code. Building systems, breaking assumptions, and occasionally fixing bugs I created myself.  
 Usually found somewhere between AI/ML research, system architecture, and caffeine dependency.  
 Trying to turn curiosity into scalable technology.
 
