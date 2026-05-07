@@ -21,26 +21,9 @@ Organized and led **2 Hackathons**, including a **National-Level Hackathon** - [
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_krishnaprashar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-prashar-645371221/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100069656088732) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:extrointrovert.kp@gmail.com) 
 
 
-## GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnaprasharkp&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=krishnaprasharkp&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaprasharkp&layout=compact&theme=dark&hide_border=false" />
-</p>
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-
-## GitHub Badges
-![](https://github-profile-trophy.vercel.app/?username=krishnaprasharkp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ---
