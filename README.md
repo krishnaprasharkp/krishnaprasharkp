@@ -22,9 +22,19 @@ Organized and led **2 Hackathons**, including a **National-Level Hackathon** - [
 
 
 ## GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=krishnaprasharkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=krishnaprasharkp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=krishnaprasharkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=krishnaprasharkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=krishnaprasharkp&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=krishnaprasharkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
