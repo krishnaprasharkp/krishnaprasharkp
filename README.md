@@ -5,11 +5,7 @@
 </h1><br>Junior Computer Science undergraduate passionate about building impactful tech and solving real-world problems through code.<br><br>Focused on DSA, System Design, AI/ML & Software Engineering<br>Experienced with Python, SQL, Power BI, C++, Git & GitHub<br>Building projects in analytics, automation, and intelligent systems<br>Currently developing my own programming language<br>Learning OS, DBMS, Networks, Kubernetes & Cloud Technologies<br><br>Constantly learning modern technologies and building projects that solve meaningful problems.<br><br>Tech Stack :<br>Languages      : Python • C++ • SQL • Java<br>Core CS        : DSA • OS • DBMS • CN • OOP<br>Data & AI      : Pandas • NumPy • Power BI • ML<br>Tools          : Git • GitHub • VS Code • Linux<br>Currently      : System Design • Kubernetes • AI Systems<br><br>Code with purpose.<br>Build with consistency.<br>Learn without limits.<br>
 
 ## 🌟 Co-Curricular & Leadership:
-<br>🌌 Founder & President of **[CosmoGen Students Society](https://www.instagram.com/cosmogen.gndu/)** — the only STEM-based student society at [Guru Nanak Dev University](https://digital.gndu.ac.in/), Amritsar<br>
-<br>🚀 Organized and led **2 Hackathons**, including a **National-Level Hackathon** - [CosmoHacks'25](https://www.cosmohacks.org/) with **300+ participating teams** from across India.<br>
-<br>🤝 Conducted multiple technical events and collaborative sessions with **industry experts** and leading **MNCs**<br>
-<br>🎤 Led large-scale student communities, event operations, sponsorship coordination, and technical management.<br>
-<br>💡 Passionate about building innovation-driven ecosystems that connect students with technology and industry.<br>
+<br>🌌 Founder & President of **[CosmoGen Students Society](https://www.instagram.com/cosmogen.gndu/)** — the only STEM-based student society at [Guru Nanak Dev University](https://digital.gndu.ac.in/), Amritsar<br><br>🚀 Organized and led **2 Hackathons**, including a **National-Level Hackathon** - [CosmoHacks'25](https://www.cosmohacks.org/) with **300+ participating teams** from across India.<br><br>🤝 Conducted multiple technical events and collaborative sessions with **industry experts** and leading **MNCs**.<br><br>🎤 Led large-scale student communities, event operations, sponsorship coordination, and technical management.<br><br>💡 Passionate about building innovation-driven ecosystems that connect students with technology and industry.<br>
 
 
 ## 🌐 Socials:
