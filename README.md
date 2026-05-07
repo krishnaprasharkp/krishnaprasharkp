@@ -29,6 +29,10 @@ Organized and led **2 Hackathons**, including a **National-Level Hackathon** - [
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+
+## Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=krishnaprasharkp&limit=5&theme=default&combine_all_yearly_contributions=true)
+
 ---
 [![](https://komarev.com/ghpvc/?username=krishnaprasharkp&icon=0&color=0)](https://visitcount.itsvg.in)
 
