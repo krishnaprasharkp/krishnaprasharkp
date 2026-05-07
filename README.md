@@ -22,7 +22,6 @@ Organized and led **2 Hackathons**, including a **National-Level Hackathon** - [
 
 
 ## GitHub Stats:
-<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=krishnaprasharkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
